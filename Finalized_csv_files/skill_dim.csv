@@ -1,0 +1,424 @@
+,Skill,Skill Type
+0,Python,Programming Language
+1,GitHub,Other tools
+2,React,Frameworks and Libraries
+3,SQL,Programming Language
+4,R,Programming Language
+5,Tableau,Other tools
+6,Power BI,Other tools
+7,Excel,Other tools
+8,SAS,Other tools
+9,Looker,Other tools
+10,Google Analytics,Other tools
+11,Parcel,Frameworks and Libraries
+12,Realm,Database
+13,AWS,Cloud Service Providers
+14,PowerPoint,Other tools
+15,Jira,Other tools
+16,Confluence,Other tools
+17,Bigquery,Cloud Service Providers
+18,Azure,Cloud Service Providers
+19,Git,Other tools
+20,Airflow,Frameworks and Libraries
+21,Docker,Other tools
+22,Java,Programming Language
+23,C++,Programming Language
+24,Scala,Programming Language
+25,MySQL,Database
+26,Redshift,Cloud Service Providers
+27,Salesforce,Cloud Service Providers
+28,Oracle,Database
+29,Hadoop,Frameworks and Libraries
+30,QlikView,Database
+31,Teradata,Database
+32,Cocoa,Frameworks and Libraries
+33,Spark,Frameworks and Libraries
+34,Office Suite,Other tools
+35,sap,Other tools
+36,Jupyter Notebook,Frameworks and Libraries
+37,Snowflake,Database
+38,Box,Other tools
+39,PySpark,Frameworks and Libraries
+40,Adobe Analytics,Other tools
+41,Sentry,Cloud Service Providers
+42,Metabase,Database
+43,Figma,Other tools
+44,DataStage,Other tools
+45,SSIS,Other tools
+46,Firebase,Cloud Service Providers
+47,Alibaba Cloud,Cloud Service Providers
+48,Apache Superset,Other tools
+49,Databricks,Cloud Service Providers
+50,HTML,Programming Language
+51,SQL Server,Database
+52,spotfire,Other tools
+53,Shopify,Cloud Service Providers
+54,Airtable,Cloud Service Providers
+55,MSSQL,Database
+56,Zapier,Cloud Service Providers
+57,Visio,Other tools
+58,Bash,Programming Language
+59,Perl,Programming Language
+60,JavaScript,Programming Language
+61,PHP,Programming Language
+62,Slack,Cloud Service Providers
+63,HubSpot,Other tools
+64,Cassandra,Database
+65,GCP,Cloud Service Providers
+66,Keras,Frameworks and Libraries
+67,Pandas,Frameworks and Libraries
+68,Tensorflow,Frameworks and Libraries
+69,Kubernetes,Other tools
+70,Fly,Frameworks and Libraries
+71,CSS,Programming Language
+72,Sanity,Frameworks and Libraries
+73,Jenkins,Frameworks and Libraries
+74,Selenium,Frameworks and Libraries
+75,Qlik Sense,Database
+76,Notion,Other tools
+77,Cobol,Programming Language
+78,Swift,Programming Language
+79,Kafka,Frameworks and Libraries
+80,PostgreSQL,Database
+81,SharePoint,Other tools
+82,C#,Programming Language
+83,NumPy,Frameworks and Libraries
+84,Scikit,Frameworks and Libraries
+85,Flask,Frameworks and Libraries
+86,Django,Frameworks and Libraries
+87,RESTful API,Frameworks and Libraries
+88,PyTorch,Frameworks and Libraries
+89,S3,Cloud Service Providers
+90,Smartsheet,Cloud Service Providers
+91,Alteryx,Frameworks and Libraries
+92,Composer,Other tools
+93,Microsoft 365,Cloud Service Providers
+94,JSP,Frameworks and Libraries
+95,Angular,Frameworks and Libraries
+96,Crystal,Programming Language
+97,ABAP,Programming Language
+98,CodeIgniter,Frameworks and Libraries
+99,Laravel,Frameworks and Libraries
+100,XGBoost,Frameworks and Libraries
+101,Elasticsearch,Database
+102,IBM Watson,Cloud Service Providers
+103,OpenCV,Frameworks and Libraries
+104,DigitalOcean,Cloud Service Providers
+105,Seaborn,Frameworks and Libraries
+106,Matplotlib,Frameworks and Libraries
+107,MLflow,Frameworks and Libraries
+108,Vuejs,Frameworks and Libraries
+109,Presto,Database
+110,jQuery,Frameworks and Libraries
+111,Bootstrap,Frameworks and Libraries
+112,Golang,Programming Language
+113,Terraform,Other tools
+114,GitHub Actions,Other tools
+115,Nodejs,Frameworks and Libraries
+116,TypeScript,Programming Language
+117,Dash,Frameworks and Libraries
+118,Shiny,Frameworks and Libraries
+119,Metaflow,Frameworks and Libraries
+120,LightGBM,Frameworks and Libraries
+121,Enzyme,Frameworks and Libraries
+122,MongoDB,Database
+123,Grafana,Other tools
+124,Azure DevOps,Cloud Service Providers
+125,Visual Basic,Programming Language
+126,Cisco,Other tools
+127,Unity,Frameworks and Libraries
+128,Io,Programming Language
+129,Spring,Frameworks and Libraries
+130,Spring Boot,Frameworks and Libraries
+131,Redis,Database
+132,Railway,Other tools
+133,DB2,Database
+134,Netezza,Database
+135,Tcl,Programming Language
+136,CloudStack,Cloud Service Providers
+137,IBM Cloud,Cloud Service Providers
+138,Puppet,Other tools
+139,Prometheus,Cloud Service Providers
+140,Chef,Other tools
+141,OpenStack,Cloud Service Providers
+142,Rackspace,Cloud Service Providers
+143,Ansible,Other tools
+144,Sass,Frameworks and Libraries
+145,Yarn,Frameworks and Libraries
+146,Nextjs,Frameworks and Libraries
+147,Nuxtjs,Frameworks and Libraries
+148,npm,Frameworks and Libraries
+149,Webpack,Frameworks and Libraries
+150,Ionic,Frameworks and Libraries
+151,Ruby,Programming Language
+152,pytest,Frameworks and Libraries
+153,Bitbucket,Cloud Service Providers
+154,GraphQL,Frameworks and Libraries
+155,React Native,Frameworks and Libraries
+156,Kotlin,Programming Language
+157,Flutter,Frameworks and Libraries
+158,Xamarin,Frameworks and Libraries
+159,Dart,Programming Language
+160,Apex,Programming Language
+161,Rust,Programming Language
+162,MATLAB,Programming Language
+163,HBase,Database
+164,Ray,Frameworks and Libraries
+165,Kibana,Other tools
+166,RabbitMQ,Frameworks and Libraries
+167,ELK Stack,Other tools
+168,Max,Programming Language
+169,WPF,Frameworks and Libraries
+170,CVS,Other tools
+171,QuickBooks,Other tools
+172,Xero,Cloud Service Providers
+173,Apache Hive,Database
+174,Amazon DynamoDB,Database
+175,Trello,Cloud Service Providers
+176,Postman,Frameworks and Libraries
+177,Sybase,Database
+178,Ruby on Rails,Frameworks and Libraries
+179,JUnit,Frameworks and Libraries
+180,Nginx,Frameworks and Libraries
+181,Groovy,Programming Language
+182,SonarQube,Frameworks and Libraries
+183,Svelte,Frameworks and Libraries
+184,Streamlit,Frameworks and Libraries
+185,CouchDB,Database
+186,MariaDB,Database
+187,NestJS,Frameworks and Libraries
+188,ASPNET,Frameworks and Libraries
+189,Helm,Other tools
+190,Expressjs,Frameworks and Libraries
+191,CircleCI,Other tools
+192,GitLab CI,Other tools
+193,NLTK,Frameworks and Libraries
+194,Azure SQL,Database
+195,OpenShift,Frameworks and Libraries
+196,Datadog,Other tools
+197,Joomla,Database
+198,Symfony,Frameworks and Libraries
+199,Cypress,Frameworks and Libraries
+200,Playwright,Frameworks and Libraries
+201,Unreal Engine,Frameworks and Libraries
+202,Chai,Frameworks and Libraries
+203,Mocha,Frameworks and Libraries
+204,Slim,Frameworks and Libraries
+205,Heroku,Cloud Service Providers
+206,Semantic UI,Frameworks and Libraries
+207,Jest,Frameworks and Libraries
+208,Gulp,Frameworks and Libraries
+209,Babel,Frameworks and Libraries
+210,YII,Frameworks and Libraries
+211,CakePHP,Frameworks and Libraries
+212,Wordpress,Other tools
+213,Cordova,Frameworks and Libraries
+214,Apache Cordova,Frameworks and Libraries
+215,Stripe,Frameworks and Libraries
+216,Gitea,Frameworks and Libraries
+217,Restify,Frameworks and Libraries
+218,Sequelize,Frameworks and Libraries
+219,CSS Modules,Frameworks and Libraries
+220,NUnit,Frameworks and Libraries
+221,SQLite,Database
+222,Apache HTTP Server,Frameworks and Libraries
+223,Robot Framework,Frameworks and Libraries
+224,Amazon Aurora,Database
+225,FastAPI,Frameworks and Libraries
+226,ASPNET Core,Frameworks and Libraries
+227,Grunt,Frameworks and Libraries
+228,Bower,Other tools
+229,TFS,Frameworks and Libraries
+230,AWS CodePipeline,Other tools
+231,Jasmine,Frameworks and Libraries
+232,SVN,Frameworks and Libraries
+233,Java EE,Frameworks and Libraries
+234,Spring Security,Frameworks and Libraries
+235,Spring Cloud,Frameworks and Libraries
+236,Quasar Framework,Frameworks and Libraries
+237,Quasar,Frameworks and Libraries
+238,Shopify Plus,Cloud Service Providers
+239,Liquid,Frameworks and Libraries
+240,Spring MVC,Frameworks and Libraries
+241,ASPNET MVC,Frameworks and Libraries
+242,Pivotal Cloud Foundry,Cloud Service Providers
+243,Solidity,Programming Language
+244,UIKit,Frameworks and Libraries
+245,Phaser,Frameworks and Libraries
+246,SEMrush,Other tools
+247,Swing,Frameworks and Libraries
+248,Java Swing,Frameworks and Libraries
+249,Jersey,Frameworks and Libraries
+250,Tailwind CSS,Frameworks and Libraries
+251,Styled Components,Frameworks and Libraries
+252,Asana,Other tools
+253,Mercurial,Frameworks and Libraries
+254,Flux,Frameworks and Libraries
+255,PlayCanvas,Frameworks and Libraries
+256,Unity3D,Frameworks and Libraries
+257,Canva,Other tools
+258,Mailchimp,Other tools
+259,Adobe Creative Suite,Other tools
+260,RxJS,Frameworks and Libraries
+261,Aurelia,Frameworks and Libraries
+262,Concourse,Frameworks and Libraries
+263,Spring Data,Frameworks and Libraries
+264,Cocos Creator,Frameworks and Libraries
+265,gRPC,Frameworks and Libraries
+266,Puppeteer,Frameworks and Libraries
+267,Travis CI,Other tools
+268,Hapijs,Frameworks and Libraries
+269,Socketio,Frameworks and Libraries
+270,MobX,Frameworks and Libraries
+271,Vite,Frameworks and Libraries
+272,Mendix,Cloud Service Providers
+273,Spring Batch,Frameworks and Libraries
+274,New Relic,Cloud Service Providers
+275,Spring Integration,Frameworks and Libraries
+276,Koajs,Frameworks and Libraries
+277,KNIME,Frameworks and Libraries
+278,Cognito,Cloud Service Providers
+279,Cocos2d,Frameworks and Libraries
+280,RxJava,Frameworks and Libraries
+281,Lucidchart,Other tools
+282,SAP HANA,Database
+283,BigCommerce,Cloud Service Providers
+284,Cucumber,Frameworks and Libraries
+285,TestNG,Frameworks and Libraries
+286,Oracle Cloud,Cloud Service Providers
+287,Red Hat OpenShift,Cloud Service Providers
+288,Cisco Cloud,Cloud Service Providers
+289,AppSync,Frameworks and Libraries
+290,Kendo UI,Frameworks and Libraries
+291,WinForms,Frameworks and Libraries
+292,Nagios,Other tools
+293,AppDynamics,Cloud Service Providers
+294,Subversion,Frameworks and Libraries
+295,WireMock,Frameworks and Libraries
+296,Vercel,Cloud Service Providers
+297,Netlify,Cloud Service Providers
+298,JSS,Frameworks and Libraries
+299,Cloudflare,Cloud Service Providers
+300,VBScript,Programming Language
+301,Backbonejs,Frameworks and Libraries
+302,Apache Camel,Frameworks and Libraries
+303,SAP Cloud Platform,Cloud Service Providers
+304,Druid,Database
+305,Neo4j,Database
+306,Sed,Programming Language
+307,Awk,Programming Language
+308,Avro,Frameworks and Libraries
+309,Memcached,Database
+310,Retrofit,Frameworks and Libraries
+311,Threejs,Frameworks and Libraries
+312,Apollo Client,Frameworks and Libraries
+313,Sencha Touch,Frameworks and Libraries
+314,PhoneGap,Frameworks and Libraries
+315,Adobe Experience Cloud,Cloud Service Providers
+316,OSGi,Frameworks and Libraries
+317,Apache Felix,Frameworks and Libraries
+318,Play Framework,Frameworks and Libraries
+319,Gauge,Frameworks and Libraries
+320,XSLT,Programming Language
+321,Apache Phoenix,Database
+322,Phoenix,Frameworks and Libraries
+323,Azure Cosmos DB,Database
+324,Assembly Language,Programming Language
+325,Haystack,Frameworks and Libraries
+326,spaCy,Frameworks and Libraries
+327,gensim,Frameworks and Libraries
+328,Karma,Frameworks and Libraries
+329,Ant Design,Frameworks and Libraries
+330,SpecFlow,Frameworks and Libraries
+331,Babylonjs,Frameworks and Libraries
+332,Elixir,Programming Language
+333,Informix,Database
+334,Vertx,Frameworks and Libraries
+335,Wix,Cloud Service Providers
+336,Umbraco,Frameworks and Libraries
+337,Gherkin,Programming Language
+338,Yii2,Frameworks and Libraries
+339,MongoDB Atlas,Cloud Service Providers
+340,RestAssured,Frameworks and Libraries
+341,Blazor,Frameworks and Libraries
+342,MFC,Frameworks and Libraries
+343,Protractor,Frameworks and Libraries
+344,SwiftUI,Frameworks and Libraries
+345,Linode,Cloud Service Providers
+346,Render,Cloud Service Providers
+347,InVision,Other tools
+348,Emotion,Frameworks and Libraries
+349,Phalcon,Frameworks and Libraries
+350,Zendesk,Cloud Service Providers
+351,Emberjs,Frameworks and Libraries
+352,Dask,Frameworks and Libraries
+353,Coda,Database
+354,Jackson,Frameworks and Libraries
+355,Apache Ant,Frameworks and Libraries
+356,Elastic Cloud,Cloud Service Providers
+357,NIST Cybersecurity Framework,Other tools
+358,ISO 27001,Frameworks and Libraries
+359,Akamai,Cloud Service Providers
+360,FAIR,Frameworks and Libraries
+361,PCI DSS,Frameworks and Libraries
+362,Glitch,Cloud Service Providers
+363,QRadar,Other tools
+364,Miro,Cloud Service Providers
+365,AutoML,Frameworks and Libraries
+366,Zebra,Database
+367,Ceylon,Programming Language
+368,Zoom,Other tools
+369,Apache Flink,Frameworks and Libraries
+370,Lua,Programming Language
+371,Amazon Redshift,Database
+372,Fastlane,Frameworks and Libraries
+373,Plotly,Frameworks and Libraries
+374,Citus,Database
+375,Tornado,Frameworks and Libraries
+376,CockroachDB,Database
+377,Zoho,Cloud Service Providers
+378,Fossil,Frameworks and Libraries
+379,Preact,Frameworks and Libraries
+380,ClickHouse,Database
+381,F#,Programming Language
+382,Webflow,Cloud Service Providers
+383,Google Workspace,Cloud Service Providers
+384,Skeleton,Frameworks and Libraries
+385,Game Framework,Frameworks and Libraries
+386,Electron,Frameworks and Libraries
+387,Calendly,Other tools
+388,Vitest,Frameworks and Libraries
+389,Shadow DOM,Frameworks and Libraries
+390,Firebase Realtime,Database
+391,XamarinForms,Frameworks and Libraries
+392,Pyramid,Frameworks and Libraries
+393,Firebird,Database
+394,Delphi,Frameworks and Libraries
+395,NativeScript,Frameworks and Libraries
+396,Django REST Framework,Frameworks and Libraries
+397,PyQt,Frameworks and Libraries
+398,Pico,Frameworks and Libraries
+399,Google Slides,Other tools
+400,ITIL,Frameworks and Libraries
+401,Grails,Frameworks and Libraries
+402,Splunk,Other tools
+403,Octopus Deploy,Other tools
+404,Owasp,Other tools
+405,Dagger,Frameworks and Libraries
+406,Responder,Other tools
+407,GDPR,Frameworks and Libraries
+408,Nessus,Other tools
+409,Google Cloud Firestore,Database
+410,Adobe Acrobat,Other tools
+411,ClickUp,Other tools
+412,Materialize,Frameworks and Libraries
+413,Couchbase,Database
+414,Oracle Cloud Infrastructure,Cloud Service Providers
+415,Okta,Other tools
+416,Qt,Frameworks and Libraries
+417,Azure AD,Other tools
+418,QuickBooks Online,Cloud Service Providers
+52,H2Oai,Frameworks and Libraries
+125,Sophos,Other tools
+189,Ktor,Frameworks and Libraries
+192,Haskell,Programming Language
