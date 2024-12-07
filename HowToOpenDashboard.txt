@@ -1,0 +1,5 @@
+How to open the dashboard
+1. ensure powerbi desktop is installed
+2. open the TechJobMY.pbix file
+3. change the data source according to the csv files
+4. enjoy the interactive dashboard
